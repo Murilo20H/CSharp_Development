@@ -1,0 +1,14 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\bin\Debug\net8.0\Jogo_da_Velha.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\bin\Debug\net8.0\Jogo_da_Velha.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\bin\Debug\net8.0\Jogo_da_Velha.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\bin\Debug\net8.0\Jogo_da_Velha.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\bin\Debug\net8.0\Jogo_da_Velha.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\refint\Jogo_da_Velha.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\ref\Jogo_da_Velha.dll
