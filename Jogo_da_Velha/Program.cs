@@ -262,7 +262,7 @@ class Program
             }
         }
 
-        if (jogoEncerrado == true)
+        if (jogoEncerrado)
         {
             Console.Clear();
             MostrarTabuleiro();

@@ -12,3 +12,4 @@ C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da
 C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.pdb
 C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.genruntimeconfig.cache
 C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\ref\Jogo_da_Velha.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\CSharp_Development\Jogo_da_Velha\obj\Debug\net8.0\Jogo_da_Velha.sourcelink.json
